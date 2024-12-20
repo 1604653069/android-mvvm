@@ -50,8 +50,6 @@ dependencies {
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.0'
 
     api project(':library-mvvm')
-
     api project(':library-okhttp')
-
     api project(':modlue-main')
 }
